@@ -175,10 +175,8 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Vinith Prakash B**
+**Yogeshwaran A**
 Machine Learning Intern — CodeAlpha
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
 ---
 
 ## 🏢 About CodeAlpha
